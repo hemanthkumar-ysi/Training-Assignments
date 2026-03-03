@@ -34,8 +34,8 @@ print(f"Total pages loaded: {len(documents)}")
 # Step 2 — Chunking
 # -------------------------------------------------
 splitter = RecursiveCharacterTextSplitter(
-    chunk_size=1200,
-    chunk_overlap=200,
+    chunk_size=400,
+    chunk_overlap=70,
     separators=["\n\n", "\n", ".", " "]
 )
 
