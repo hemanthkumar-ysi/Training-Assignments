@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchain-huggingface
+langchain-groq
+langchain-mcp-adapters
+faiss-cpu
+pypdf
+python-dotenv
+sentence-transformers
+mcp
+fastmcp
+langchain-google-genai
